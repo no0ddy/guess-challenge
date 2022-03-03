@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "..\\pig game"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "pig game"
+  }
+}
